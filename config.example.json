@@ -1,0 +1,7 @@
+{
+    "consumerKey": "Twitter Consumer Key",
+    "consumerSecret": "Twitter Consumer Secret",
+    "accessToken": "Twitter Access Token",
+    "accessSecret": "Twitter Access Secret",
+    "developerKey": "Youtube Developer Key"
+}
